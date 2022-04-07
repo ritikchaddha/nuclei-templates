@@ -5,6 +5,9 @@ info:
   author: pikpikcu
   severity: high
   reference: https://zhuanlan.zhihu.com/p/368054963
+  metadata:
+    shodan-query: http.title:"NS-ASG"
+    fofa-query: title="NS-ASG"
   tags: nsasg,lfi
 
 requests:
